@@ -3,7 +3,7 @@ This file is a zipped Renpy working directory. For some warning, this is
  
 Contained in this game is three simpler games: snake and two versions of pacman.
  The snake game is based on an online javascript version I liked 
- (Credit: http://www.menet.umn.edu/~dockt036/snake.html). It's a complete game
+ (Credit: http://www.menet.umn.edu/~dockt036/snake.html). It's a complete game.
  
 The pacman games are more complex. The first version was my first attempt at AI,
  collision detection, and other such things. It's kinda messy code-wise, but it's
