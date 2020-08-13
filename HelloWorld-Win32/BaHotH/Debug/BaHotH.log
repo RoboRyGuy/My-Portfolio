@@ -1,0 +1,3 @@
+﻿  MainWndProc.cpp
+c:\users\joe\source\repos\bahoth\bahoth\mainwndproc.cpp(36): warning C4715: 'MainWndProc': not all control paths return a value
+  BaHotH.vcxproj -> C:\Users\joe\source\repos\BaHotH\Debug\BaHotH.exe
