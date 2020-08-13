@@ -1,0 +1,17 @@
+﻿  HashMap.c
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(79): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(79): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(150): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(150): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(150): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(178): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(178): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(178): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(214): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(214): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(214): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(240): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(240): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\joe\source\repos\hashmapproject\hashmapproject\hashmapproject\hashmap.c(240): warning C4024: 'strcmp': different types for formal and actual parameter 2
+  HashMapProject.vcxproj -> C:\Users\joe\source\repos\HashMapProject\HashMapProject\Debug\HashMapProject.exe
