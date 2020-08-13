@@ -15,7 +15,7 @@ The pacman games are more complex. The first version was my first attempt at AI,
 To use the orignal code, you need to download renpy (free). You can veiw / edit the
  .rpy (script) files in any standard text editor. You only need renpy to compile and run.
 
-That's a pain, though, so I went ahead and created 3 distributions
+For easier access, I've compiled three working versions for windows/linux, all of which are
  available on my google drive at 
  https://drive.google.com/drive/folders/169mM_8tQiU_vG84ExY7O7EcwrYEx85ni?usp=sharing
  The Snake game is snake, the Pacman game the first mentioned iteration of pacman,
