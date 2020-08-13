@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\joe\source\repos\carrayproject\carrayproject\source.c(13): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\users\joe\source\repos\carrayproject\carrayproject\source.c(24): warning C4013: 'realloc' undefined; assuming extern returning int
+c:\users\joe\source\repos\carrayproject\carrayproject\source.c(35): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\joe\source\repos\carrayproject\carrayproject\source.c(38): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\joe\source\repos\carrayproject\carrayproject\source.c(13): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  CArrayProject.vcxproj -> C:\Users\joe\source\repos\CArrayProject\Debug\CArrayProject.exe
