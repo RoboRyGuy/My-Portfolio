@@ -1,0 +1,4 @@
+﻿  WndProc.cpp
+c:\users\joe\source\repos\catpetter9000\catpetter9000\wndproc.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\joe\source\repos\catpetter9000\catpetter9000\wndproc.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CatPetter9000.vcxproj -> C:\Users\joe\source\repos\CatPetter9000\Debug\CatPetter9000.exe
