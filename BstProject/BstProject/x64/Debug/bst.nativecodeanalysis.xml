@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'tree'. </DESCRIPTION>
+    <FUNCTION>initializeBST</FUNCTION>
+    <DECORATED>initializeBST</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'tree' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'tree' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+      <FILENAME>bst.c</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'tree-&gt;root'. </DESCRIPTION>
+    <FUNCTION>insert</FUNCTION>
+    <DECORATED>insert</DECORATED>
+    <FUNCLINE>60</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'*tree' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\joe\source\repos\bstproject\bstproject</FILEPATH>
+        <FILENAME>bst.c</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>26</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'*tree' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
