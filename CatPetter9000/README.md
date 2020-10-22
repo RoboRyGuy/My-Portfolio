@@ -14,4 +14,4 @@ IF YOU WANNA SEE IT WORK: Download the project, take the two .bmp files, and thr
  your username, and it should all work fine.
 
 I understand this is a lot of work, but I have yet to figure out Visual Studio's
- Win32 images system. Win32 is becoming depceciated, so accurate documentation is slim.
+ Win32 images system. Win32 is becoming depreciated, so accurate documentation is slim.
